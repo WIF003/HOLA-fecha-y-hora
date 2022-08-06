@@ -1,5 +1,6 @@
 echo off
 color 0a
+start https://youtu.be/jfKfPfyJRdk
 :bucle
 timeout /T 1 /nobreak
 cls
